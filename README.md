@@ -22,6 +22,9 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+<i class="fa fa-facebook-square gradient-icon">
+<i class="fa fa-linkedin-square gradient-icon">
+<i class="fa fa-twitter-square gradient-icon">
 
 [Link](url) and ![Image](src)
 ```
