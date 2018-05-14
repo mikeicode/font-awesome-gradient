@@ -1,6 +1,6 @@
 ## Add some flavor to your icons
 
-Instead of adding a solid color to your [Font Awesome Icons](http://wpandsuch.com/tag/font-awesome/) with CSS why not add a custom gradient!
+Instead of adding a solid color to your [Font Awesome Icons](https://fontawesome.com/v4.7.0/icons/) with CSS why not add a custom gradient!
 
 [View demo site](https://mikeicode.github.io/font-awesome-gradient/) 
 
