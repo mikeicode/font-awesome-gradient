@@ -1,4 +1,4 @@
-## Add some flavor to you icons
+## Add some flavor to your icons
 
 Instead of adding a solid color to your [Font Awesome Icons](http://wpandsuch.com/tag/font-awesome/) with CSS why not add a custom gradient!
 
@@ -9,8 +9,6 @@ Instead of adding a solid color to your [Font Awesome Icons](http://wpandsuch.co
 <i class="fa fa-linkedin-square gradient-icon">
 <i class="fa fa-twitter-square gradient-icon">
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### The fun part
 
