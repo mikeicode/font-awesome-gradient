@@ -1,39 +1,34 @@
-## Welcome to GitHub Pages
+## Add some flavor to you icons
 
 You can use the [editor on GitHub](https://github.com/mikeicode/font-awesome-gradient/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Instead of adding a solid color to your [Font Awesome Icons](http://wpandsuch.com/tag/font-awesome/) with CSS why not add a custom gradient!
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 <i class="fa fa-facebook-square gradient-icon">
 <i class="fa fa-linkedin-square gradient-icon">
 <i class="fa fa-twitter-square gradient-icon">
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### The fun part
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mikeicode/font-awesome-gradient/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Target the CSS class above with this CSS:
+
+```markdown
+.gradient-icon {
+    background: -webkit-gradient(linear, left top, left bottom, from(#ff5db1), to(#ef017c));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: initial;
+}
+```
+ou can of course edit the color and direction of the gradient.
 
 ### Support or Contact
 
